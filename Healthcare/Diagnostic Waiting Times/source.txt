@@ -1,0 +1,7 @@
+Link to website: https://www.data.gov.uk/dataset/59590bee-dfd1-4d03-b515-fa890bc64f2e/diagnostic-waiting-times
+Last access date: 08/11/2023
+
+License: Open Government License [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/]
+
+Summary:
+Details information on the number of patients waiting, and length of time waiting, for diagnostic services, as well as diagnostic reporting turnaround times at Health and Social Care (HSC) Trusts in Northern Ireland. Data are presented by HSC Trust, diagnostic service and time band.

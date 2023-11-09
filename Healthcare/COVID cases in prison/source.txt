@@ -1,0 +1,8 @@
+Link to website: https://data.world/associatedpress/marshall-project-covid-cases-in-prisons
+Last access date: 08/11/2023
+
+License: 
+Dictionay: https://data.world/associatedpress/marshall-project-covid-cases-in-prisons/workspace/data-dictionary
+
+Summary:
+The Marshall Project, the nonprofit investigative newsroom dedicated to the U.S. criminal justice system, has partnered with The Associated Press to compile data on the prevalence of COVID-19 infection in prisons across the country. The Associated Press is sharing this data as the most comprehensive current national source of COVID-19 outbreaks in state and federal prisons.

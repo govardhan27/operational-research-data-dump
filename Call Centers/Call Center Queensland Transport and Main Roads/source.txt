@@ -1,0 +1,7 @@
+Link to website: https://www.data.qld.gov.au/dataset/main-queue-daily-call-centre-enquiries-for-last-month
+Last access date: 08/11/2023
+
+License: Open Data [https://creativecommons.org/licenses/by/3.0/au/]
+
+Summary:
+Daily call centre enquiries for last month—consolidated statistics for the 'main queue'.

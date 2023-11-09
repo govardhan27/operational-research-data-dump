@@ -1,0 +1,27 @@
+﻿_id,Timestamp: Date call data was captured for.
+1,
+2,Application: The control point in the call routing system named for the type of call routed.
+3,
+4,Grade of Service: The percentage of calls answered or abandoned within an acceptable timeframe (which for the department's call centre is 180 seconds)
+5,
+6,Calls Offered: The count of calls arriving into the call centre after having navigated the voice prompts. A call is counted here regardless of whether it is answered or not.
+7,
+8,Calls Abandoned: Count of callers who hung up whilst waiting to be answered.
+9,
+10,Calls Handled: Count of calls answered in the call centre.
+11,
+12,CallsAbandonedAfterThreshold: The count of callers who hung up after having waited longer than the acceptable wait (180 seconds)
+13,
+14,CallsHandledAfterThreshold: The count of callers who spoke with a consultant after having waited longer than the acceptable wait (180 seconds)
+15,
+16,TotalTalkTime: The total duration (seconds) a customer spent on the phone to a consultant includes time when their phone was ringing to a consultant
+17,
+18,TotalDelayToAnswer: The sum of wait time (seconds) for all customers from when they finish navigating the voice prompt system
+19,
+20,TotalDelayToAbandon: The sum of wait time (seconds) for all customers from when they finish navigating the voice prompt system
+21,
+22,AverageHandlingTime: The Total Talk Time divided by the number of calls handled. 
+23,
+24,AveDelayToAnswer: The TotalDelayToAnswer divided by the number of calls handled.
+25,
+26,AveDelayToAbandon: The TotalDelayToAbandon divided by the number of calls abandoned.
